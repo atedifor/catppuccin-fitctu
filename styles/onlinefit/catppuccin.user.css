@@ -2,7 +2,7 @@
 @name           OnlineFIT Catppuccin
 @namespace      github.com/FTEdianiaK/catppuccin-fitctu/styles/onlinefit
 @homepageURL    https://github.com/FTEdianiaK/catppuccin-fitctu/tree/main/styles/onlinefit
-@version        1.0.0
+@version        1.0.1
 @updateURL      https://github.com/FTEdianiaK/catppuccin-fitctu/raw/main/styles/onlinefit/catppuccin.user.css
 @supportURL     https://github.com/FTEdianiaK/catppuccin-fitctu/issues?q=is%3Aopen+is%3Aissue+label%3Aonlinefit
 @description    Cats and coffee for OnlineFIT
@@ -11,8 +11,8 @@
 
 @preprocessor less
 @var select lightFlavor "Light Flavor" ["latte:Latte*", "frappe:Frappé", "macchiato:Macchiato", "mocha:Mocha"]
-@var select darkFlavor "Dark Flavor" ["latte:Latte", "frappe:Frappé", "macchiato:Macchiato", "mocha:Mocha*"]
-@var select accentColor "Accent" ["rosewater:Rosewater", "flamingo:Flamingo", "pink:Pink", "mauve:Mauve*", "red:Red", "maroon:Maroon", "peach:Peach", "yellow:Yellow", "green:Green", "teal:Teal", "blue:Blue", "sapphire:Sapphire", "sky:Sky", "lavender:Lavender", "subtext0:Gray"]
+@var select darkFlavor "Dark Flavor" ["latte:Latte", "frappe:Frappé*", "macchiato:Macchiato", "mocha:Mocha"]
+@var select accentColor "Accent" ["rosewater:Rosewater", "flamingo:Flamingo", "pink:Pink", "mauve:Mauve", "red:Red", "maroon:Maroon", "peach:Peach", "yellow:Yellow", "green:Green", "teal:Teal", "blue:Blue*", "sapphire:Sapphire", "sky:Sky", "lavender:Lavender", "subtext0:Gray"]
 @var checkbox theaterMode "Enable theater mode?" 0
 ==/UserStyle== */
 
