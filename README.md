@@ -13,6 +13,7 @@
 
 - [How to...](#how-to)
 - [Supported Systems & Features](#supported-systems--features)
+  - [ProgTest](#progtest)
 - [Special Thanks](#special-thanks)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -34,6 +35,12 @@ If you'd like to expand this little project onto another CTU system, a good plac
 
 ### Supported Systems & Features
 (so far)
+
+#### [ProgTest](https://progtest.fit.cvut.cz/)
+
+- Catppuccin base
+- Changing font to Arial
+- Changing font size (14px, 16px)
 
 
 ### Special Thanks
