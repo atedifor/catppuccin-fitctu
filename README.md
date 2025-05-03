@@ -5,8 +5,6 @@
 ![CTU logo](CTU.webp)
 
 
----
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -40,16 +38,26 @@ If you'd like to expand this little project onto another CTU system, a good plac
 ### Supported Systems & Features
 (so far)
 
+---
+
 #### [ProgTest](https://progtest.fit.cvut.cz/)
+
+Get it [here](https://github.com/FTEdianiaK/catppuccin-fitctu/raw/refs/heads/main/styles/progtest/catppuccin.user.css).
 
 - Catppuccin base
 - Changing font to Arial
 - Changing font size (14px, 16px)
 
+---
+
 #### [OnlineFIT](https://online.fit.cvut.cz/)
+
+Get it [here](https://github.com/FTEdianiaK/catppuccin-fitctu/raw/refs/heads/main/styles/onlinefit/catppuccin.user.css).
 
 - Catppuccin base
 - Theater mode
+
+---
 
 
 ### Special Thanks
