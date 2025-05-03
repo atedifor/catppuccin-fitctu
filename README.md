@@ -33,7 +33,7 @@ Simply import your chosen userstyle into any compatible extension (e.g. [Stylus]
 
 Good question. If you'd like to, you can try hunting for any bugs or try fixing existing issues.
 
-If you'd like to expand this little project onto another CTU system, a good place to start is our [modified Catppuccin template](https://github.com/FTEdianiaK/catppuccin-fitctu/blob/main/template/catppuccin.user.css).
+If you'd like to expand this little project onto another CTU system, a good place to start is our [modified Catppuccin template](https://github.com/atedifor/catppuccin-fitctu/blob/main/template/catppuccin.user.css).
 
 
 ### Supported Systems & Features
@@ -43,7 +43,7 @@ If you'd like to expand this little project onto another CTU system, a good plac
 
 #### [ProgTest](https://progtest.fit.cvut.cz/)
 
-Get it [here](https://github.com/FTEdianiaK/catppuccin-fitctu/raw/refs/heads/main/styles/progtest/catppuccin.user.css).
+Get it [here](https://github.com/atedifor/catppuccin-fitctu/raw/refs/heads/main/styles/progtest/catppuccin.user.css).
 
 - Catppuccin base
 - Changing font to Arial
@@ -53,7 +53,7 @@ Get it [here](https://github.com/FTEdianiaK/catppuccin-fitctu/raw/refs/heads/mai
 
 #### [OnlineFIT](https://online.fit.cvut.cz/)
 
-Get it [here](https://github.com/FTEdianiaK/catppuccin-fitctu/raw/refs/heads/main/styles/onlinefit/catppuccin.user.css).
+Get it [here](https://github.com/atedifor/catppuccin-fitctu/raw/refs/heads/main/styles/onlinefit/catppuccin.user.css).
 
 - Catppuccin base
 - Theater mode
@@ -62,7 +62,7 @@ Get it [here](https://github.com/FTEdianiaK/catppuccin-fitctu/raw/refs/heads/mai
 
 #### [Courses](https://courses.fit.cvut.cz/)
 
-Get it [here](https://github.com/FTEdianiaK/catppuccin-fitctu/raw/refs/heads/main/styles/courses/catppuccin.user.css).
+Get it [here](https://github.com/atedifor/catppuccin-fitctu/raw/refs/heads/main/styles/courses/catppuccin.user.css).
 
 - Catppuccin base
 
