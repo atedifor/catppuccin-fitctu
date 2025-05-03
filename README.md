@@ -15,6 +15,7 @@
 - [Supported Systems & Features](#supported-systems--features)
   - [ProgTest](#progtest)
   - [OnlineFIT](#onlinefit)
+  - [Courses](#courses)
 - [Special Thanks](#special-thanks)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
