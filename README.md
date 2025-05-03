@@ -33,7 +33,7 @@ Simply import your chosen userstyle into any compatible extension (e.g. [Stylus]
 
 Good question. If you'd like to, you can try hunting for any bugs or try fixing existing issues.
 
-If you'd like to expand this little project onto another CTU system, a good place to start is the [original Catppuccin template](https://github.com/catppuccin/userstyles/blob/main/template/catppuccin.user.css).
+If you'd like to expand this little project onto another CTU system, a good place to start is our [modified Catppuccin template](https://github.com/FTEdianiaK/catppuccin-fitctu/blob/main/template/catppuccin.user.css).
 
 
 ### Supported Systems & Features
