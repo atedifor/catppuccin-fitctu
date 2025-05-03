@@ -12,6 +12,8 @@
 
 
 - [How to...](#how-to)
+  - [Use](#use)
+  - [Contribute](#contribute)
 - [Supported Systems & Features](#supported-systems--features)
   - [ProgTest](#progtest)
 - [Special Thanks](#special-thanks)
@@ -23,11 +25,11 @@
 
 ### How to...
 
-#### Use:
+#### Use
 
 Simply import your chosen userstyle into any compatible extension (e.g. [Stylus](https://add0n.com/stylus.html)) by going to its \*.user.css file and clicking *RAW*.
 
-#### Contribute:
+#### Contribute
 
 Good question. If you'd like to, you can try hunting for any bugs or try fixing existing issues.
 If you'd like to expand this little project onto another CTU system, a good place to start is the [original Catppuccin template](https://github.com/catppuccin/userstyles/blob/main/template/catppuccin.user.css).
