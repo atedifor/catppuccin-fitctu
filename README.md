@@ -16,6 +16,7 @@
   - [Contribute](#contribute)
 - [Supported Systems & Features](#supported-systems--features)
   - [ProgTest](#progtest)
+  - [OnlineFIT](#onlinefit)
 - [Special Thanks](#special-thanks)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -44,6 +45,11 @@ If you'd like to expand this little project onto another CTU system, a good plac
 - Catppuccin base
 - Changing font to Arial
 - Changing font size (14px, 16px)
+
+#### [OnlineFIT](https://online.fit.cvut.cz/)
+
+- Catppuccin base
+- Theater mode
 
 
 ### Special Thanks
