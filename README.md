@@ -59,6 +59,14 @@ Get it [here](https://github.com/FTEdianiaK/catppuccin-fitctu/raw/refs/heads/mai
 
 ---
 
+#### [Courses](https://courses.fit.cvut.cz/)
+
+Get it [here](https://github.com/FTEdianiaK/catppuccin-fitctu/raw/refs/heads/main/styles/courses/catppuccin.user.css).
+
+- Catppuccin base
+
+---
+
 
 ### Special Thanks
 
